@@ -1,0 +1,17 @@
+
+		h1{
+		text-align: center;
+		}
+
+		table{ 
+		border: "1";
+		}
+		
+		th, tr, td{
+		text-align: center;
+		border: 11px, orange, solid;
+		}
+		
+		.a11{
+		 background-color: black;	
+		}
